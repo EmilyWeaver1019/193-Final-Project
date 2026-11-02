@@ -1,18 +1,20 @@
-## Getting Started
+## Football Game Tracker
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Project Goal
+I want to build a program that will automatically give you all the NFL and/or college football games happening that day, what time they are, and what channel they are on. I also want to be able to search a team up specifically and it will give you their schedule for the next couple of weeks. I also want to be able to star teams and have them come up on the top of the list every time.
 
-## Folder Structure
+## Tech Stack
+Language: Java
+Data Sources: NFL website / external sports database
+Developement Enviroment: VS code
 
-The workspace contains two folders by default, where:
+## MVP Scope
+ *Automatically display all NFL games for the day
+ *Show kickoff times
+ *Ensure schedule updates
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+ ## Future Plan
+ An automated Java system that fetches and displays the daily football game schedule for NFL games. User can view the schedule with kickoff time and channels, and search for specific teams
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
